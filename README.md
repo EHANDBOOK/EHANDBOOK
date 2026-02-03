@@ -1,9 +1,8 @@
+![ETAS Banner Image](./ehandbook_banner_1200_212.png)
 
 # ETAS EHANDBOOK
 
-Welcome to the official GitHub profile for the ETAS EHANDBOOK solution.
-
-ETAS EHANDBOOK is an interactive documentation solution for automotive software. It makes automotive software easier and faster to understand such that developers can get their jobs done more efficiently.
+ETAS EHANDBOOK is an interactive documentation solution for automotive software. It makes automotive software **easier and faster to understand** such that developers can **get their jobs done more efficiently**.
 
 For more information, visit the [ETAS EHANDBOOK website](http://etas.com/ehandbook).
 
@@ -14,4 +13,12 @@ For more information, visit the [ETAS EHANDBOOK website](http://etas.com/ehandbo
 ## Additional Resources
 
 - [EHANDBOOK Documentation & Tutorials](https://docs.etas.com/ehandbook/): Comprehensive documentation and tutorials for ETAS EHANDBOOK.
-- [ETAS EHANDBOOK Website](http://etas.com/ehandbook): General information about the ETAS EHANDBOOK solution.
+- [EHANDBOOK Website](http://etas.com/ehandbook): General information about the ETAS EHANDBOOK solution.
+
+## AI-generated code notice
+
+Use of generative AI in this repository:
+
+The repository partially contains AI-generated code by using GitHub Copilot Business.
+
+This notice needs to remain attached to any reproduction of this repository.
